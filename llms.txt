@@ -1,0 +1,73 @@
+# LoungeCompy
+
+> Comparatore di lounge aeroportuali per chi vola dall'Italia e dall'Europa. Per ogni lounge: prezzo d'ingresso, orari, posizione, programmi accettati e l'esito d'accesso con carte, conti e circuiti (entri gratis, entri pagando, non entri). 160 lounge in 37 aeroporti. Dati aggiornati al 25/11/2026.
+
+Ogni prezzo e regola d'accesso riporta fonte e data di verifica. I dati non verificati sono indicati come tali e non vengono stimati. I prezzi sono nella valuta della fonte.
+
+## Aeroporti
+
+- [Roma FCO — Roma Fiumicino "Leonardo da Vinci"](https://lounge-compy.com/a/FCO.html): British Airways Lounge (T3), Emirates Lounge (T3), HelloSky Arrival Lounge & Air Rooms, ITA Airways Hangar Lounge, ITA Airways Lounge Piazza di Spagna, Plaza Premium First, Plaza Premium Lounge (T1), Plaza Premium Lounge (T3), Prima Vista Lounge – Domus (T1), Prima Vista Lounge – Portus (T3), Prima Vista Lounge (T1), Primeclass Lounge (T1)
+- [Milano MXP — Milano Malpensa](https://lounge-compy.com/a/MXP.html): Alda Merini Classic Lounge, Emirates Lounge, Gae Aulenti Premium Lounge, Lufthansa Business Lounge, Lufthansa Lounge, Montale Exclusive Lounge, Monteverdi Classic Lounge, Pergolesi Classic Lounge
+- [Bergamo BGY — Milano Bergamo "Il Caravaggio"](https://lounge-compy.com/a/BGY.html): Check-in Lounge (ex Landside VIP Lounge), HelloSky Milan Bergamo Lounge
+- [Napoli NAP — Napoli Capodichino](https://lounge-compy.com/a/NAP.html): Pearl Lounge
+- [Frankfurt FRA — Frankfurt am Main](https://lounge-compy.com/a/FRA.html): Air France / KLM Lounge, Air France Lounge (T3), Emirates Lounge (T3), Lufthansa Bistro Lounge (Non-Schengen), Lufthansa Business Lounge, Lufthansa Business Lounge, Lufthansa Business Lounge, Lufthansa Business Lounge, Lufthansa Business Lounge, Lufthansa First Class Lounge, Lufthansa First Class Lounge, Lufthansa Panorama Lounge A26, Lufthansa Senator Lounge, Lufthansa Senator Lounge, Lufthansa Senator Lounge, Lufthansa Welcome Lounge, LuxxLounge, Primeclass Lounge, Priority Lounge (T3), SkyTeam Lounge (T3)
+- [Monaco di Baviera MUC — Franz Josef Strauß](https://lounge-compy.com/a/MUC.html): Air France Lounge (T1), Airport Lounge Europe, Airport Lounge World
+- [Düsseldorf DUS — Düsseldorf Airport](https://lounge-compy.com/a/DUS.html): DUS Rhein Lounge, DUS Sky Lounge, Emirates Lounge, Lufthansa Business Lounge, Lufthansa Senator Lounge
+- [Berlino BER — Brandenburg](https://lounge-compy.com/a/BER.html): BER Lounge Tegel, BER Lounge Tempelhof, Lufthansa Business Lounge
+- [Parigi CDG — Charles de Gaulle](https://lounge-compy.com/a/CDG.html): Extime Lounge 2B/2D, Extime Lounge T1, YotelAir Paris CDG (lounge)
+- [Parigi ORY — Orly](https://lounge-compy.com/a/ORY.html): Extime Lounge Orly 4, Premium Traveller Lounge, Primeclass Lounge Orly 4, Transavia Lounge (Orly 2)
+- [Amsterdam AMS — Schiphol](https://lounge-compy.com/a/AMS.html): Aspire Lounge 26, Aspire Lounge 41, Privium ClubLounge, Star Alliance Lounge 27
+- [Bruxelles BRU — Brussels Airport](https://lounge-compy.com/a/BRU.html): Diamond Lounge, The View Lounge
+- [Madrid MAD — Adolfo Suárez Madrid-Barajas](https://lounge-compy.com/a/MAD.html): Iberia Dalí Premium Lounge, Iberia Emerald Lounge Sorolla, Iberia Velázquez Premium Lounge, Sala Altitude, Sala VIP Cibeles, Sala VIP Gran Vía, Sala VIP Neptuno, Sala VIP Plaza Mayor, Sala VIP Puerta de Alcalá, Sala VIP Puerta del Sol, Sala VIP Retiro
+- [Barcellona BCN — Josep Tarradellas El Prat](https://lounge-compy.com/a/BCN.html): Premium VIP Lounge (Sleep & Fly), Sala VIP Canudas, Sala VIP Colomer, Sala VIP Joan Miró, Sala VIP Pau Casals
+- [Palma di Maiorca PMI — Son Sant Joan](https://lounge-compy.com/a/PMI.html): Sala VIP Formentor, Sala VIP Llevant, Sala VIP Mediterráneo, Sala VIP Mestral, Sala VIP Valldemossa
+- [Malaga AGP — Costa del Sol](https://lounge-compy.com/a/AGP.html): Sala VIP Costa del Sol (ex Sala VIP T3), Sala VIP Relax&GO
+- [Alicante ALC — Alicante-Elche Miguel Hernández](https://lounge-compy.com/a/ALC.html): Sala VIP Costa Blanca
+- [Lisbona LIS — Humberto Delgado](https://lounge-compy.com/a/LIS.html): ANA Lounge, Blue Lounge, TAP Premium Lounge (Tejo e Atlântico)
+- [Porto OPO — Francisco Sá Carneiro](https://lounge-compy.com/a/OPO.html): ANA Lounge Porto
+- [Zurigo ZRH — Zürich Flughafen](https://lounge-compy.com/a/ZRH.html): Aspire Lounge (Airside Center), Aspire Lounge E (Midfield), Marhaba Lounge
+- [Ginevra GVA — Genève Aéroport](https://lounge-compy.com/a/GVA.html): Crystal Lounge by Aspire, Marhaba Lounge, Marhaba Lounge East Wing, Swissport Horizon Lounge
+- [Vienna VIE — Vienna International](https://lounge-compy.com/a/VIE.html): SKY Lounge, VIENNA Lounge
+- [Copenaghen CPH — Kastrup](https://lounge-compy.com/a/CPH.html): Aspire Lounge, Carlsberg Aviator Lounge, Danske Bank Aviator Business Lounge, Pearl Lounge (ex Eventyr), SAS Lounge
+- [Stoccolma ARN — Arlanda](https://lounge-compy.com/a/ARN.html): Aspire Lounge (non-Schengen), Aspire Lounge (Schengen), Pearl Lounge molo C (T4), Pearl Lounge T2, SAS Lounge by Mastercard (T5)
+- [Oslo OSL — Gardermoen](https://lounge-compy.com/a/OSL.html): OSL Lounge Innland, OSL Lounge International
+- [Helsinki HEL — Helsinki-Vantaa](https://lounge-compy.com/a/HEL.html): Aspire Lounge (gate 13), Aspire Lounge (gate 27), OP Lounge by Aspire, Plaza Premium Lounge
+- [Atene ATH — Eleftherios Venizelos](https://lounge-compy.com/a/ATH.html): Aegean Business Lounge (Area A), Aegean Business Lounge (Area B), Goldair Handling Lounge Extra, Goldair Handling Lounge Intra, Goldair Handling x AIA Lounge, Lufthansa Business Lounge, Skyserv Aristotle Onassis Lounge, Skyserv Melina Merkouri Lounge, Swissport Lounge
+- [Budapest BUD — Ferenc Liszt](https://lounge-compy.com/a/BUD.html): Platinum Lounge (non-Schengen), Platinum Lounge (Schengen), Plaza Premium Lounge (non-Schengen), SkyCourt Lounge
+- [Praga PRG — Václav Havel](https://lounge-compy.com/a/PRG.html): Erste Premier Lounge T1 (ex Mastercard Lounge), Erste Premier Lounge T2
+- [Varsavia WAW — Chopin](https://lounge-compy.com/a/WAW.html): Etiuda Executive Lounge, Preludium Executive Lounge
+- [Bucarest OTP — Henri Coandă](https://lounge-compy.com/a/OTP.html): Satellite Business Lounge, Schengen Business Lounge
+- [Venezia VCE — Marco Polo](https://lounge-compy.com/a/VCE.html): Aspire Executive Lounge, Marco Polo Lounge (Marco Polo Club)
+- [Catania CTA — Fontanarossa “Vincenzo Bellini”](https://lounge-compy.com/a/CTA.html): VIP Lounge "Angelo D'Arrigo"
+- [Palermo PMO — Falcone-Borsellino (Punta Raisi)](https://lounge-compy.com/a/PMO.html): Prima Vista Lounge, Sala VIP GESAP
+- [Bologna BLQ — Guglielmo Marconi](https://lounge-compy.com/a/BLQ.html): Prima Vista Lounge (ex Marconi Business Lounge)
+- [Londra LHR — Heathrow](https://lounge-compy.com/a/LHR.html): Blush Lounge by Plaza Premium Group (Terminal 4), Club Aspire Lounge Terminal 5 (in ristrutturazione → No1 Lounge T5), Clubrooms Heathrow Terminal 3, My Lounge Heathrow Terminal 3 (ex Club Aspire T3), No1 Lounge Heathrow Terminal 2, No1 Lounge Heathrow Terminal 3, Plaza Premium Lounge (Arrivi, Terminal 3), Plaza Premium Lounge (Partenze, Terminal 2), Plaza Premium Lounge (Partenze, Terminal 4), Plaza Premium Lounge (Partenze, Terminal 5)
+- [Dublino DUB — Dublin Airport](https://lounge-compy.com/a/DUB.html): Garden Terrace (ristorante, voucher Priority Pass), The 51st & Green Lounge, The Liffey Lounge, The Martello Lounge, The Phoenix Lounge
+
+## Carte, conti e circuiti
+
+- [Priority Pass](https://lounge-compy.com/p/priority-pass.html): Circuito di lounge: quanti ingressi hai inclusi, e a che prezzo gli altri, dipende dal tuo piano o dalla carta che te lo dà.
+- [LoungeKey](https://lounge-compy.com/p/loungekey.html): Circuito di lounge: quanti ingressi hai inclusi, e a che prezzo gli altri, dipende dal tuo piano o dalla carta che te lo dà.
+- [DragonPass](https://lounge-compy.com/p/dragonpass.html): Circuito di lounge: quanti ingressi hai inclusi, e a che prezzo gli altri, dipende dal tuo piano o dalla carta che te lo dà.
+- [Revolut Ultra](https://lounge-compy.com/p/revolut-ultra.html): Ingressi illimitati secondo la fonte. L'accesso passa dal circuito LoungeKey.
+- [N26 Metal](https://lounge-compy.com/p/n26-metal.html): 1 ingresso gratuito l'anno. Oltre gli ingressi inclusi: €30 per ingresso dall'app N26. L'accesso passa dal circuito DragonPass.
+- [HYPE Premium](https://lounge-compy.com/p/hype-premium.html): Nessun ingresso gratuito incluso: ogni ingresso si paga (pass dall'app HYPE, prezzo non pubblicato). L'accesso passa dal circuito LoungeKey.
+- [Amex Platinum](https://lounge-compy.com/p/amex-platinum.html): L'accesso vale nelle lounge che citano direttamente questa carta.
+- [Diners Club](https://lounge-compy.com/p/diners-club.html): L'accesso vale nelle lounge che citano direttamente questa carta.
+- [Amex Oro](https://lounge-compy.com/p/amex-gold.html): 2 ingressi gratuiti l'anno. Oltre gli ingressi inclusi: tariffa Priority Pass per ingresso (24 £ / 35 $). L'accesso passa dal circuito Priority Pass.
+- [N26 Go](https://lounge-compy.com/p/n26-go.html): Nessun ingresso gratuito incluso: ogni ingresso si paga (€15 il primo, poi €30 dall'app N26). L'accesso passa dal circuito DragonPass.
+- [Revolut Metal / Premium](https://lounge-compy.com/p/revolut-metal.html): Nessun ingresso gratuito incluso: ogni ingresso si paga (pass scontato dall'app Revolut, prezzo non pubblicato). L'accesso passa dal circuito LoungeKey.
+- [Finom Prime](https://lounge-compy.com/p/finom-prime.html): 2 ingressi gratuiti a trimestre. Oltre gli ingressi inclusi: tariffa del circuito per ingresso. L'accesso passa dal circuito DragonPass.
+- [Nexi Excellence](https://lounge-compy.com/p/nexi-excellence.html): 5 ingressi gratuiti l'anno. Oltre gli ingressi inclusi: tariffa del circuito per ingresso. L'accesso passa dal circuito LoungeKey.
+- [Nexi Prestige](https://lounge-compy.com/p/nexi-prestige.html): Nessun ingresso gratuito incluso: ogni ingresso si paga (tariffa del circuito per ingresso). L'accesso passa dal circuito LoungeKey.
+- [Mediolanum Credit Card Prestige](https://lounge-compy.com/p/mediolanum-prestige.html): Nessun ingresso gratuito incluso: ogni ingresso si paga (24 $ per ingresso (LoungeKey)). L'accesso passa dal circuito LoungeKey.
+- [Intesa Sanpaolo Exclusive](https://lounge-compy.com/p/intesa-exclusive.html): Numero di ingressi inclusi non pubblicato. Oltre gli ingressi inclusi: LoungeKey incluso nel canone; ingressi inclusi da verificare. L'accesso passa dal circuito LoungeKey.
+- [The Platinum Card (UK)](https://lounge-compy.com/p/amex-platinum-uk.html): L'accesso vale nelle lounge che citano direttamente questa carta.
+- [DreamFolks](https://lounge-compy.com/p/dreamfolks.html): Circuito di lounge: quanti ingressi hai inclusi, e a che prezzo gli altri, dipende dal tuo piano o dalla carta che te lo dà.
+- [American Express (carte idonee non specificate)](https://lounge-compy.com/p/amex.html): Numero di ingressi inclusi non pubblicato.
+
+## Altro
+
+- [Elenco aeroporti](https://lounge-compy.com/a/)
+- [Elenco programmi](https://lounge-compy.com/p/)
+- [App](https://lounge-compy.com/)
